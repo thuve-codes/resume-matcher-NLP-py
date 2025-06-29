@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume Matcher</title>
+  </head>
+  <body>
+    <h1>Resume Matcher</h1>
+    <form action="/match" method="POST" enctype="multipart/form-data">
+      <label>Job Description:</label><br />
+      <textarea name="job_description" rows="10" cols="70" required>
+{{ job_desc or "" }}</textarea
+      ><br /><br />
+
+      <label>Upload Resume PDFs:</label><br />
+      <input
+        type="file"
+        name="resumes"
+        accept=".pdf"
+        multiple
+        required
+      /><br /><br />
+
+      <input type="submit" value="Match Resumes" />
+    </form>
+
+    {% if results %}
+    <h2>Results:</h2>
+    <ul>
+      {% for res in results %}
+      <li><strong>{{ res.filename }}</strong>: {{ res.score }}%</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </body>
+</html>

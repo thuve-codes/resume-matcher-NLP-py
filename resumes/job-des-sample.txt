@@ -1,0 +1,28 @@
+Software Engineer Intern – Job Description
+
+We are seeking a motivated and enthusiastic Software Engineer Intern to join our development team. This is an excellent opportunity for students or recent graduates to gain hands-on experience in full-stack web development and work on real-world projects.
+
+Responsibilities:
+- Assist in the development of web applications and internal tools  
+- Collaborate with senior developers and designers on feature implementation  
+- Write clean, maintainable code under supervision  
+- Help test and debug applications  
+- Learn and contribute to front-end and back-end components  
+- Participate in code reviews and team meetings  
+
+Desired Skills:
+- Basic knowledge of HTML, CSS, and JavaScript  
+- Familiarity with at least one front-end framework (e.g., React, Vue.js)  
+- Understanding of Python or JavaScript-based backend frameworks (e.g., Flask, Node.js)  
+- Experience with Git and version control workflows  
+- Willingness to learn databases such as MySQL or MongoDB  
+- Passion for problem-solving and continuous learning  
+
+Bonus Skills:
+- Exposure to REST APIs  
+- Experience with personal or academic projects hosted on GitHub  
+- Familiarity with tools like Postman, Figma, or Docker  
+
+Eligibility:
+- Currently pursuing a Bachelor’s degree in Computer Science, Engineering, or a related field  
+- Final year students or fresh graduates preferred
